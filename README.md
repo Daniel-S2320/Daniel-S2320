@@ -28,10 +28,3 @@
 </div>
 
 <br>
-
- (EN-US) Feel free to connect with me through social media and to share your ideas and experiences. <BR>
- (PT-BR) Sinta-se à vontade para se conectar comigo através das redes sociais e para compartilhar suas ideias e experiências.
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.rro/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranguiner-daniel-das-v-santos-91261222a/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/channels/daniel_ranguiner)
