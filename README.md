@@ -6,7 +6,8 @@
 
 ### 🙂 I am...
 - Kotlin developer | Desenvolvedor Kotlin
-- Student of systems analysis and development | Estudante de análise e desenvolvimento de sistemas
+- Graduating in systems development | Estudante de análise e desenvolvimento de sistemas
+- Accounting technician | Técnico em contabilidade
 - Agricultural technician | Técnico em agropecuária
  <br>
  
